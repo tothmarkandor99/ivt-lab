@@ -87,6 +87,7 @@ public class GT4500 implements SpaceShip {
           wasPrimaryFiredLast = firingPrimarySuccess;
         break;
         // this comment was added to cause a conflict
+
     }
 
     return firingSuccess;
