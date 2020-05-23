@@ -6,3 +6,5 @@ firingMode == SINGLE
 firingMode == ALL
   mindkét ágyúval sikerül lőni
   csak a második ágyúval sikerült lőni
+  csak az első ágyúval sikerült lőni
+  egyik ágyúval sem sikerült lőni
