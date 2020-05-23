@@ -1,0 +1,8 @@
+firingMode == SINGLE
+  az első ágyú következik, sikerül lőni
+  az első ágyú következik, nem sikerül lőni
+  az első ágyú következik, üres, a második ágyúval sikerül lőni
+
+firingMode == ALL
+  mindkét ágyúval sikerül lőni
+  csak a második ágyúval sikerült lőni
